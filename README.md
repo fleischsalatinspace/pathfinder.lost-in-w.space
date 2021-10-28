@@ -1,2 +1,1 @@
-# pathfinder.lost-in-w.space
-Issue Tracker for public Pathfinder instance https://pathfinder.lost-in-w.space
+Please use this repository for issues with the public Pathfinder instance https://pathfinder.lost-in-w.space
